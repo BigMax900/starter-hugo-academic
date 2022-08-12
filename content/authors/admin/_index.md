@@ -2,7 +2,7 @@
 title: Hao Wu (吴昊)
 role: Applied Linguistics Researcher & EAP Teacher
 avatar_filename: avatar.jpg
-bio: My research
+bio: I am an applied linguistics researcher.
 interests: []
 social:
   - icon: envelope
@@ -38,4 +38,4 @@ email: hao.wu@education.ox.ac.uk
 superuser: true
 highlight_name: true
 ---
-English
+I am an applied linguistics researcher
