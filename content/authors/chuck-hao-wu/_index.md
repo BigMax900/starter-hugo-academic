@@ -4,7 +4,9 @@ role: Applied Linguistics Researcher & EAP Teacher
 avatar_filename: ""
 bio: ff
 interests:
-  - Educational
+  - Questionnaire Development
+  - Structural Equation Modeling (Cross-sectional & Longitudinal)
+  - SPSS Amos
 social:
   - display:
       header: false
