@@ -5,7 +5,7 @@ avatar_filename: ""
 bio: ff
 interests:
   - Questionnaire Development
-  - Structural Equation Modeling (Cross-sectional & Longitudinal)
+  - SEM (Cross-sectional & Longitudinal)
   - SPSS Amos
 social:
   - display:
