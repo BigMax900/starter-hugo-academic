@@ -1,5 +1,5 @@
 ---
-title: Chuck Hao Wu吴昊
+title: Chuck Hao Wu <br>吴昊
 role: Applied Linguistics Researcher & EAP Teacher
 avatar_filename: portrait.png
 bio: ""
