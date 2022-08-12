@@ -3,6 +3,8 @@ title: Chuck Hao Wu
 role: Applied Linguistics Researcher & EAP Teacher
 avatar_filename: avatar
 bio: ff
+interests:
+  - Educational
 social:
   - display:
       header: false
