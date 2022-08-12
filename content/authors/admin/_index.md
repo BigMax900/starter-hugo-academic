@@ -38,4 +38,4 @@ email: hao.wu@education.ox.ac.uk
 superuser: true
 highlight_name: true
 ---
-I am an applied linguistics researcherf
+I am an applied linguistics researcher.
