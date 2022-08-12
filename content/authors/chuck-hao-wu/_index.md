@@ -9,6 +9,6 @@ social:
     link: https://twitter.com/ChuckHaoWu
     icon_pack: fas
     icon: twitter
-superuser: false
+superuser: true
 ---
 ff
