@@ -25,9 +25,9 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: MSc in Applied Linguistics for Language Teaching
+      institution: The University of Oxford
+      year: 2022
     - course: MA in Teaching English to Speakers of Other Languages (TESOL)
       institution: The University of Hong Kong
       year: 2017
