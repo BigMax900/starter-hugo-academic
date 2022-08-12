@@ -1,7 +1,7 @@
 ---
 title: Chuck Hao Wu (吴昊)
 role: Applied Linguistics Researcher & EAP Teacher
-avatar_filename: portrait.jpeg
+avatar_filename: portrait.png
 bio: ff
 interests:
   - Questionnaire Development
