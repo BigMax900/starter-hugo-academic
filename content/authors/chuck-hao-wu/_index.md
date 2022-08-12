@@ -22,6 +22,12 @@ education:
     - course: MSc in Applied Linguistics for Language Teaching
       institution: The University of Oxford
       year: 2022
+    - course: MA in Teaching English to Speakers of Other Languages
+      institution: The University of Hong Kong
+      year: 2016
+    - course: BA in English Language and Literature
+      institution: University of Science and Technology Liaoning
+      year: 2016
 email: hao.wu@education.ox.ac.uk
 superuser: true
 user_groups: []
