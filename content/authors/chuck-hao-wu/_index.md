@@ -1,19 +1,14 @@
 ---
-title: Chuck Hao Wu (吴昊)
+title: Chuck Hao Wu吴昊
 role: Applied Linguistics Researcher & EAP Teacher
 avatar_filename: portrait.png
-bio: ff
+bio: ""
 interests:
   - Questionnaire Development
   - SEM (Cross-sectional & Longitudinal)
   - SPSS Amos
   - SLA
-social:
-  - display:
-      header: false
-    link: https://twitter.com/ChuckHaoWu
-    icon_pack: fas
-    icon: twitter
+social: []
 organizations:
   - name: The University of Oxford
     url: https://www.ox.ac.uk/
@@ -32,4 +27,3 @@ email: hao.wu@education.ox.ac.uk
 superuser: true
 user_groups: []
 ---
-ff；；
