@@ -7,6 +7,7 @@ interests:
   - Questionnaire Development
   - SEM (Cross-sectional & Longitudinal)
   - SPSS Amos
+  - SLA
 social:
   - display:
       header: false
