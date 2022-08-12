@@ -1,7 +1,7 @@
 ---
 title: Hao Wu (吴昊)
 role: Applied Linguistics Researcher & EAP Teacher
-avatar_filename: org_dsc00554.jpeg
+avatar_filename: avatar.jpg
 bio: My research
 interests: []
 social:
@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Oxford
+    url: https://www.ox.ac.uk/
 education:
   courses:
     - course: MSc in Applied Linguistics for Language Teaching
