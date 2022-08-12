@@ -25,7 +25,7 @@ education:
     - course: MA in Teaching English to Speakers of Other Languages
       institution: The University of Hong Kong
       year: 2016
-    - course: BA in English Language and Literature
+    - course: BA (Distinction) in English Language and Literature
       institution: University of Science and Technology Liaoning
       year: 2016
 email: hao.wu@education.ox.ac.uk
