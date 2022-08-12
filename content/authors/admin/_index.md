@@ -31,9 +31,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in English Language and Literature
+      institution: University of Science and Technology Liaoning
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
