@@ -30,7 +30,7 @@ education:
       year: 2012
     - course: MA in Teaching English to Speakers of Other Languages (TESOL)
       institution: The University of Hong Kong
-      year: 2018
+      year: 2017
     - course: BA in English Language and Literature
       institution: University of Science and Technology Liaoning
       year: 2016
