@@ -28,13 +28,13 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: MA in Teaching English to Speakers of Other Languages (TESOL)
+      institution: The University of Hong Kong
+      year: 2017
     - course: BA in English Language and Literature
       institution: University of Science and Technology Liaoning
-      year: ""
-email: ""
+      year: 2016
+email: hao.wu@education.ox.ac.uk
 superuser: true
 highlight_name: true
 ---
