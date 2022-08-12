@@ -1,9 +1,9 @@
 ---
 title: Hao Wu (吴昊)
-role: Lecturer
+role: Applied Linguistics Researcher & EAP Teacher
+avatar_filename: org_dsc00554.jpeg
 bio: My research
-interests:
-  - Psychometrics
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
