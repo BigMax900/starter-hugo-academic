@@ -4,8 +4,13 @@ role: Applied Linguistics Researcher & EAP Teacher
 avatar_filename: ""
 bio: ""
 interests:
+  - L2 Learning Motivation
+  - Language Learning Self-efficacy
+  - Language Learning Anxiety
+  - Self-regulated & Instructed Strategies
   - Questionnaire Development
   - SEM (Cross-sectional & Longitudinal)
+  - Qualitative Analysis
 social: []
 organizations:
   - name: The University of Oxford
