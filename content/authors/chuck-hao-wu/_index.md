@@ -15,8 +15,9 @@ social:
   - display:
       header: false
     icon_pack: far
-    icon: fa-twitter
+    icon: fa
     link: https://twitter.com/ChuckHaoWu
+    label: twitter
 organizations:
   - name: The University of Oxford
     url: https://www.ox.ac.uk/
