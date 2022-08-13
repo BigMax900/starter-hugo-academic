@@ -1,12 +1,11 @@
 ---
 title: Chuck Hao Wu 吴昊
 role: Applied Linguistics Researcher & EAP Teacher
-avatar_filename: portrait.png
+avatar_filename: ""
 bio: ""
 interests:
   - Questionnaire Development
   - SEM (Cross-sectional & Longitudinal)
-  - Qualitative Analysis
 social: []
 organizations:
   - name: The University of Oxford
