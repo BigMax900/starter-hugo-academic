@@ -17,18 +17,18 @@ organizations:
     url: https://www.ox.ac.uk/
 education:
   courses:
-    - course: MSc in Applied Linguistics for Language Teaching, 2020 -
+    - course: MSc in Applied Linguistics for Language Teaching, 2020-2022
       institution: The University of Oxford, United Kingdom
-      year: 2022
-    - course: MA in Teaching English to Speakers of Other Languages, 2016 -
+      year: ""
+    - course: MA in Teaching English to Speakers of Other Languages, 2016-2017
       institution: The University of Hong Kong, HKSAR, China
-      year: 2016
-    - course: BA (Distinction) in English Language and Literature, 2012 -
+      year: ""
+    - course: BA (Distinction) in English Language and Literature, 2012-2016
       institution: University of Science and Technology Liaoning, China
-      year: 2017
-    - course: One-year Exchange Program in English Language and Literature, 2014
+      year: ""
+    - course: One-year Exchange Program in English Language and Literature, 2014-2015
       institution: Kyeongsang National University, South Korea
-      year: 2015
+      year: ""
 email: hao.wu@education.ox.ac.uk
 superuser: true
 user_groups: []
