@@ -1,7 +1,7 @@
 ---
 title: Chuck Hao Wu
 role: Applied Linguistics Researcher & EAP Teacher
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: ""
 interests:
   - L2 Learning Motivation
