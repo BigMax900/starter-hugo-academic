@@ -39,3 +39,6 @@ email: hao.wu@education.ox.ac.uk
 superuser: true
 user_groups: []
 ---
+I am an applied linguistics researcher and English teacher.
+
+I have taught English for over 5 years.
