@@ -27,7 +27,7 @@ education:
       institution: University of Science and Technology Liaoning, China
       year: ""
     - course: One-year Exchange Program in English Language and Literature, 2014-2015
-      institution: Kyeongsang National University, South Korea
+      institution: Gyeongsang National University, South Korea
       year: ""
 email: hao.wu@education.ox.ac.uk
 superuser: true
