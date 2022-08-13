@@ -15,7 +15,7 @@ social:
   - display:
       header: false
     icon_pack: far
-    icon: fa-brands fa-twitter
+    icon: fa-twitter
     link: https://twitter.com/ChuckHaoWu
 organizations:
   - name: The University of Oxford
