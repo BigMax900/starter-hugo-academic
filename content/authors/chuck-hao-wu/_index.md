@@ -11,7 +11,12 @@ interests:
   - Questionnaire Development
   - SEM (Cross-sectional & Longitudinal)
   - Qualitative Analysis
-social: []
+social:
+  - display:
+      header: false
+    icon_pack: far
+    icon: fa-brands fa-twitter
+    link: https://twitter.com/ChuckHaoWu
 organizations:
   - name: The University of Oxford
     url: https://www.ox.ac.uk/
