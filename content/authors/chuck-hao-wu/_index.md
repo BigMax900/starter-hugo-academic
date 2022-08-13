@@ -14,7 +14,7 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fab
     icon: twitter
     link: https://twitter.com/ChuckHaoWu
     label: ""
