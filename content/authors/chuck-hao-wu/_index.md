@@ -1,18 +1,11 @@
 ---
-title: Chuck Hao Wu 吴昊
+title: Chuck Hao Wu
 role: Applied Linguistics Researcher & EAP Teacher
-avatar_filename: portrait.png
+avatar_filename: ""
 bio: ""
 interests:
-  - L2 Learning Motivation
-  - Language Assessment
   - Questionnaire Development
   - SEM (Cross-sectional & Longitudinal)
-  - Qualitative Analysis
-  - Language Learning Anxiety
-  - Self-regulated Strategies
-  - Language Learning Self-efficacy
-  - Language Learning Grit
 social: []
 organizations:
   - name: The University of Oxford
