@@ -24,7 +24,7 @@ url_video: ""
 title: A comparative study of analytical assessment and holistic assessment in
   English writing tests
 doi: https://doi.org/10.54475/jlt.2021.001
-featured: true
+featured: false
 tags:
   - analytical assessment
 projects: []
