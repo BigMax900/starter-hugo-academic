@@ -41,4 +41,4 @@ user_groups: []
 ---
 I am an applied linguistics researcher and English teacher.
 
-I have taught English for over 5 years.
+I have taught English for over five years.
