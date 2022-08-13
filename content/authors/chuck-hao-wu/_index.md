@@ -6,6 +6,7 @@ bio: ""
 interests:
   - Questionnaire Development
   - SEM (Cross-sectional & Longitudinal)
+  - Qualitative Analysis
 social: []
 organizations:
   - name: The University of Oxford
