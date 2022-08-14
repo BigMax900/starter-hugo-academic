@@ -3,13 +3,7 @@ title: "College English IV: Listening & Speaking"
 subtitle: This course is targeted at improving second-year college students'
   listening and speaking skills.
 date: 2020-12-13T00:00:00Z
-summary: |-
-  Teaching Content:
-
-  Unit 1\
-  Unit 2\
-  Unit 3\
-  Unit 4
+summary: This course contains exciting 14 units.
 draft: false
 featured: false
 authors: []
@@ -23,4 +17,4 @@ image:
   placement: 2
   preview_only: false
 ---
-This course is targeted at improving second-year college students' listening and speaking skills. This course is targeted at improving second-year college students' listening and speaking skills.
+This course is targeted at improving second-year college students' listening and speaking skills.
