@@ -18,7 +18,7 @@ publication: In *Journal of Language Teaching*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *JLT*
+publication_short: ""
 url_source: ""
 url_video: ""
 title: A comparative study of analytical assessment and holistic assessment in
