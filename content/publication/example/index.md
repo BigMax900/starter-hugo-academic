@@ -15,7 +15,10 @@ authors:
   - Hao Wu
 author_notes: []
 publication: In *Journal of Language Teaching*
-summary: ""
+summary: This paper provides a review of previous empirical studies and compares
+  the two assessment methods in terms of reliability, construct validity,
+  practicability, and impact, followed by suggestions in the selection, design,
+  and operation of the assessment methods.
 url_dataset: ""
 url_project: ""
 publication_short: ""
