@@ -1,13 +1,12 @@
 ---
 title: "College English IV: Listening & Speaking"
-subtitle: This course is targeted at improving second-year college students'
-  listening and speaking skills.
-date: 2020-12-13T00:00:00Z
+subtitle: ""
+date: 2020-12-13T00:00:00.000Z
 summary: This course contains exciting 14 units.
 draft: false
 featured: false
 authors: []
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories: []
 projects: []
