@@ -23,4 +23,4 @@ image:
   placement: 2
   preview_only: false
 ---
-This course is targeted at improving second-year college students' listening and speaking skills.This course is targeted at improving second-year college students' listening and speaking skills.
+This course is targeted at improving second-year college students' listening and speaking skills. This course is targeted at improving second-year college students' listening and speaking skills.
