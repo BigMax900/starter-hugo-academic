@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
-title: Teaching
-subtitle:
+title: Posts
+subtitle: Some interesting teaching reflections
 
 content:
   # Filter on criteria
