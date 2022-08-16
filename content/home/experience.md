@@ -46,5 +46,5 @@ experience:
     description: Journal of Language Teaching (JLT) is a scholarly peer-reviewed international scientific journal published monthly, focusing on theories, methods, and materials in language teaching, study and research.
 
 design:
-  columns: '2'
+  columns: '1'
 ---
