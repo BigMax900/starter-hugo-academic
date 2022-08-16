@@ -25,25 +25,25 @@ experience:
   - title: Lecturer
     company: University
     company_url: ''
-    company_logo: org-gc
+    company_logo:
     location: Shanghai, China
     date_start: '2019-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Teaching English to Chinese EFL speakers
         * Conducting research independently
         * Deploying
+        * Trying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Editor
+    company: Journal of Language Teaching
+    company_url: 'https://jlt.ac/'
+    company_logo:
+    location:
+    date_start: '2021-09-01'
+    date_end:
+    description: Journal of Language Teaching (JLT) is a scholarly peer-reviewed international scientific journal published monthly, focusing on theories, methods, and materials in language teaching, study and research.
 
 design:
   columns: '2'
