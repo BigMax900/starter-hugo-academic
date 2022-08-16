@@ -12,7 +12,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Hao Wu
+  - Chuck Hao Wu
 author_notes: []
 publication: In *Journal of Language Teaching*
 summary: This paper provides a review of previous empirical studies and compares
