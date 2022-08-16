@@ -19,7 +19,7 @@ featured: false
 tags:
   - corpus
 image:
-  filename: ""
+  filename: featured.jpg.jpg
   focal_point: Smart
   preview_only: false
 date: 2019-06-01T00:00:05.984Z
