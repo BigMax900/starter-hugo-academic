@@ -1,6 +1,6 @@
 ---
 abstract: This course includes 14 units.
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: "College English I: An Integrated Course"
@@ -21,7 +21,7 @@ address:
   postcode: "94305"
   country: United States
 links: []
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags:
   - Speaking
 projects:
