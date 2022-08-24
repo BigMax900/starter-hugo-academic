@@ -2,8 +2,8 @@
 title: Chuck Hao Wu
 role: Applied Linguistics Researcher & EAP Teacher
 avatar_filename: ""
-bio: I am an applied linguistics researcher and English teacher with a research
-  interest in language acquisition and language teaching/pedagogy.
+bio: I am an applied linguistics researcher and English teacher with research
+  interests in foreign language acquisition and learner psychology.
 interests:
   - L2 Learning Motivation
   - Language Learning Self-efficacy
@@ -40,4 +40,4 @@ email: hao.wu@education.ox.ac.uk
 superuser: true
 user_groups: []
 ---
-I am an applied linguistics researcher and English teacher with a research interest in language acquisition and language teaching/pedagogy. I have taught several academic English modules during the past five years at undergraduate level.
+I am an applied linguistics researcher and English teacher with research interests in foreign language acquisition and learner psychology. I have taught several academic English modules during the past five years at the undergraduate level.
