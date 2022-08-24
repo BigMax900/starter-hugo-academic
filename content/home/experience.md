@@ -32,9 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         * Teaching English to Chinese EFL speakers
-        * Conducting research independently
-        * Deploying
-        * Trying
+        * Conducting research in language acquisition
 
   - title: Editor
     company: Journal of Language Teaching
