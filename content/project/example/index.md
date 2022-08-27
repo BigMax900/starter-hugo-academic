@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 summary: >-
   This is a presentation of the dissertation submitted in partial fulfillment of
