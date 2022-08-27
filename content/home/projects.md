@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Corpus
-      tag: Corpus
+    - name: questionnaire
+      tag: Questionnaire
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
