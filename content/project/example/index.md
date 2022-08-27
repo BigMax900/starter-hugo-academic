@@ -23,3 +23,5 @@ image:
 url_code: ""
 ---
 This is a presentation of the dissertation submitted in partial fulfillment of the requirements for the [MSc ALLT](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-linguistics-for-language-teaching) program at [The University of Oxford](https://ox.ac.uk).
+
+Time: August 24, 2022  18:55 – 19:20   ·    Oxford, UK
