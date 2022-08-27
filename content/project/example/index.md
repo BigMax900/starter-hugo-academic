@@ -1,18 +1,25 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: This is a presentation of the dissertation submitted in partial
+  fulfillment of the requirements for the [MSc
+  ALLT](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-linguistics-for-language-teaching)
+  program at [The University of Oxford](https://ox.ac.uk).
+authors:
+  - Chuck Hao Wu
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
-title: Example Project
+title: "Exploring the factors affecting the performance of EFL learners’ oral
+  presentation: A structural equation modeling study"
 tags:
-  - Corpus
+  - questionnaire
 links: []
 image:
-  caption: ""
-  focal_point: Smart
+  caption: The Hypothesized Model
+  focal_point: bottomright
+  filename: featured.jpg
 url_code: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+This is a presentation of the dissertation submitted in partial fulfillment of the requirements for the [MSc ALLT](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-linguistics-for-language-teaching) program at [The University of Oxford](https://ox.ac.uk).
