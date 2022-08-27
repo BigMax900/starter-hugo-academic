@@ -1,6 +1,6 @@
 ---
 slides: ""
-url_pdf: ""
+url_pdf: "saqop.pdf"
 summary: >-
   This is a presentation of the dissertation submitted in partial fulfillment of
   the requirements for the [MSc
