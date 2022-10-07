@@ -24,7 +24,7 @@ organizations:
     url: https://www.ox.ac.uk/
 education:
   courses:
-    - course: MSc in Applied Linguistics for Language Teaching, 2020-2022
+    - course: MSc in Applied Linguistics for Language Teaching (Distinction), 2020-2022
       institution: The University of Oxford, United Kingdom
       year: ""
     - course: MA in Teaching English to Speakers of Other Languages, 2016-2017
