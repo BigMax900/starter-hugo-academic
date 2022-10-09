@@ -1,7 +1,7 @@
 ---
 title: Chuck Hao Wu
 role: Applied Linguistics Researcher & EAP Teacher
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: I am an applied linguistics researcher and English teacher with research
   interests in foreign language acquisition and learner psychology.
 interests:
