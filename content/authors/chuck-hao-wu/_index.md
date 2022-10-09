@@ -47,4 +47,4 @@ email: hao.wu@education.ox.ac.uk
 superuser: true
 user_groups: []
 ---
-I am an applied linguistics researcher and English teacher with research interests in foreign language acquisition and learner psychology. I have taught several academic English modules during the past five years at the undergraduate level.
+I am an applied linguistics researcher and English teacher with research interests in foreign language acquisition and learner psychology. I have taught several academic English modules at the undergraduate level during the past five years.
