@@ -7,11 +7,13 @@ bio: I am an applied linguistics researcher and English teacher with research
 interests:
   - L2 Learning Motivation
   - Language Learning Self-efficacy
+  - Language Learning Grit
   - Language Learning Anxiety
   - Self-regulated & Instructed Strategies
   - Questionnaire Development
-  - SEM (Cross-sectional & Longitudinal)
-  - Qualitative Analysis
+  - Structural Equation Modeling (SEM)
+  - Latent Growth Curve Modeling (LGCM)
+  - Qualitative Analysis (NVivo)
 social:
   - display:
       header: false
@@ -19,6 +21,11 @@ social:
     icon: twitter
     link: https://twitter.com/ChuckHaoWu
     label: ""
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/chuck-wu/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: The University of Oxford
     url: https://www.ox.ac.uk/
