@@ -26,6 +26,16 @@ social:
     link: https://www.linkedin.com/in/chuck-wu/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: https://orcid.org/my-orcid?orcid=0000-0003-2383-1133
+    icon_pack: fab
+    icon: orcid
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Hao-Wu-84
+    icon_pack: fab
+    icon: researchgate
 organizations:
   - name: The University of Oxford
     url: https://www.ox.ac.uk/
