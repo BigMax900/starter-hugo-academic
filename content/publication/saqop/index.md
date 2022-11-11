@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Chuck Hao Wu
-doi: https://ssrn.com/abstract=4259156
+doi: ""
 abstract: Oral presentations are widely adopted by language teachers in EFL
   classrooms to test language learners’ speaking capability, understanding of
   the topics covered in the course, or both (Mak, 2019). While many English as
