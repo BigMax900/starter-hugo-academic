@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Chuck Hao Wu
 doi: 10.54475/jlt.2022.003
-publication: Journal of Language Teaching
+publication: ""
 publication_short: ""
 abstract: L2 reading, as a dominant source of language input, is an essential
   skill contributing to language learners’ academic success across various
