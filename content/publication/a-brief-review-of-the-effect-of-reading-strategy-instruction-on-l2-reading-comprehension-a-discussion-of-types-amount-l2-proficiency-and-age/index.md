@@ -7,7 +7,7 @@ authors:
   - Chuck Hao Wu
 doi: 10.54475/jlt.2022.003
 publication: Journal of Language Teaching
-publication_short: JLT
+publication_short: ""
 abstract: L2 reading, as a dominant source of language input, is an essential
   skill contributing to language learners’ academic success across various
   educational contexts. The process of teaching that strategy is reading
@@ -18,6 +18,8 @@ abstract: L2 reading, as a dominant source of language input, is an essential
   RSI, L2 proficiency, and age.
 draft: false
 featured: false
+tags:
+  - L2 reading
 image:
   filename: featured
   focal_point: Smart
