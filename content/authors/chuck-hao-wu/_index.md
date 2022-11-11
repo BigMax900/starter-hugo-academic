@@ -41,9 +41,9 @@ organizations:
     url: https://www.ox.ac.uk/
 education:
   courses:
-    - course: MSc (Distinction) in Applied Linguistics for Language Teaching, 2020-2022
+    - course: MSc in Applied Linguistics for Language Teaching (Distinction), 2020-2022
       institution: The University of Oxford, United Kingdom
-      year: ""
+      year: -3
     - course: MA in Teaching English to Speakers of Other Languages, 2016-2017
       institution: The University of Hong Kong, HKSAR, China
       year: ""
@@ -53,7 +53,7 @@ education:
     - course: One-year Exchange Program in English Language and Literature, 2014-2015
       institution: Gyeongsang National University, South Korea
       year: ""
-email: hao.wu@education.ox.ac.uk
+email: wuhaodlc@connect.hku.hk
 superuser: true
 user_groups: []
 ---
