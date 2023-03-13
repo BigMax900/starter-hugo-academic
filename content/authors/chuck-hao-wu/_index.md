@@ -41,6 +41,8 @@ organizations:
     url: https://www.ox.ac.uk/
 education:
   courses:
+    - institution: The University of Oxford
+      course: DPhil in Education, 2023-Now
     - course: MSc in Applied Linguistics for Language Teaching (Distinction), 2020-2022
       institution: The University of Oxford, United Kingdom
       year: ""
@@ -53,8 +55,6 @@ education:
     - course: One-year Exchange Program in English Language and Literature, 2014-2015
       institution: Gyeongsang National University, South Korea
       year: ""
-    - institution: The University of Oxford
-      course: DPhil in Education, 2023-Now
 email: wuhaodlc@connect.hku.hk
 superuser: true
 user_groups: []
