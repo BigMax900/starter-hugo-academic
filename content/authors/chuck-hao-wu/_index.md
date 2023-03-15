@@ -42,19 +42,18 @@ organizations:
 education:
   courses:
     - institution: The University of Oxford
-      course: DPhil in Education, 2023 - Present
+      course: DPhil in Education, 2023–Present
       year: ""
-    - course: MSc in Applied Linguistics for Language Teaching (Distinction), 2020 -
-        2022
+    - course: MSc in Applied Linguistics for Language Teaching (Distinction), 2020–2022
       institution: The University of Oxford, United Kingdom
       year: ""
-    - course: MA in Teaching English to Speakers of Other Languages, 2016 - 2017
+    - course: MA in Teaching English to Speakers of Other Languages, 2016–2017
       institution: The University of Hong Kong, HKSAR, China
       year: ""
-    - course: BA (Distinction) in English Language and Literature, 2012-2016
+    - course: BA (Distinction) in English Language and Literature, 2012–2016
       institution: University of Science and Technology Liaoning, China
       year: ""
-    - course: One-year Exchange Program in English Language and Literature, 2014-2015
+    - course: One-year Exchange Program in English Language and Literature, 2014–2015
       institution: Gyeongsang National University, South Korea
       year: ""
 email: wuhaodlc@connect.hku.hk
