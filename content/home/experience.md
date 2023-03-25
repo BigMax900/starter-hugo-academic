@@ -44,10 +44,11 @@ experience:
     company_logo:
     location: Global
     date_start: '2021-09-01'
-    date_end:
+    date_end: ''
     description: |2-
-    * Reviewing articles and encouraging submission;
-    * Participating in board meetings and promoting the Journal at conferences.
+        My responsibilities include:
+        * Reviewing articles and encouraging submission;
+        * Participating in board meetings and promoting the Journal at conferences.
 
 design:
   columns: '1'
