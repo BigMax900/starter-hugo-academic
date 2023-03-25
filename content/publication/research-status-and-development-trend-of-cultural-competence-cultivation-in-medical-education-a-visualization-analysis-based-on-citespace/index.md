@@ -1,13 +1,14 @@
 ---
 title: "Research status and development trend of cultural competence cultivation
-  in medical education: A visualization analysis based on CiteSpace"
+  in medical education: A visualization analysis based on CiteSpace
+  (医学教育中文化能力培养的研究现状及发展趋势——基于CiteSpace的可视化分析)"
 publication_types:
   - "2"
 authors:
   - Chuck Hao Wu
   - Ye Han
 doi: 10.3969/j.issn.2096-045X.2022.05.014
-publication: In *Medical Education Management*
+publication: In *Medical Education Management (医学教育管理)*
 abstract: "**Objective** To analyze the dynamics and changing characteristics of
   medical cultural competence education and provide theoretical and practical
   references for medical culture education in China. **Methods** In this paper,
