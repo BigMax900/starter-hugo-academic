@@ -46,7 +46,6 @@ experience:
     date_start: '2021-09-01'
     date_end:
     description: Journal of Language Teaching (JLT) is a scholarly peer-reviewed international scientific journal published monthly, focusing on theories, methods, and materials in language teaching, study and research. It provides a high-profile, leading-edge forum for academics, professionals, consultants, educators, practitioners, and students in the field to contribute and disseminate innovative new work on language teaching and research.
-    |2-
     My responsibilities include:
     * Reviewing articles and encouraging submission;
     * Participating in board meetings and promoting the Journal at conferences.
