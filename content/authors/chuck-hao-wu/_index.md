@@ -5,10 +5,12 @@ avatar_filename: avatar.jpg
 bio: I am an applied linguistics researcher and English teacher with research
   interests in foreign language acquisition and learner psychology.
 interests:
+  - English Medium Instruction (EMI)
   - L2 Learning Motivation
   - Language Learning Self-efficacy
   - Language Learning Grit
   - Language Learning Anxiety
+  - Positive Psychology in Language Learning
   - Self-regulated & Instructed Strategies
   - Questionnaire Development
   - Structural Equation Modeling (SEM)
