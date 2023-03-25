@@ -30,18 +30,26 @@ experience:
     date_start: '2019-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        * Teaching English to Chinese EFL speakers
-        * Conducting research in language acquisition
+        My responsibilities include:
+        * Conducting research and undertaking consultancies in applied linguistics and English teaching;
+        * Preparing and delivering lectures, and conducting tutorials, and seminars (240 hours per year);
+        * Preparing and marking essays, assignments and examinations;
+        * Advising students on academic and related matters;
+        * Attending departmental and faculty meetings, conferences and seminars;
+        * Participating in setting course and degree requirements, curriculum revision and academic planning.
 
   - title: Editor
     company: Journal of Language Teaching
     company_url: 'https://jlt.ac/'
     company_logo:
-    location:
+    location: Global
     date_start: '2021-09-01'
     date_end:
-    description: Journal of Language Teaching (JLT) is a scholarly peer-reviewed international scientific journal published monthly, focusing on theories, methods, and materials in language teaching, study and research.
+    description: Journal of Language Teaching (JLT) is a scholarly peer-reviewed international scientific journal published monthly, focusing on theories, methods, and materials in language teaching, study and research. It provides a high-profile, leading-edge forum for academics, professionals, consultants, educators, practitioners, and students in the field to contribute and disseminate innovative new work on language teaching and research.
+    |2-
+    My responsibilities include:
+    * Reviewing articles and encouraging submission;
+    * Participating in board meetings and promoting the Journal at conferences.
 
 design:
   columns: '1'
