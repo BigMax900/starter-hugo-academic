@@ -62,4 +62,4 @@ email: wuhaodlc@connect.hku.hk
 superuser: true
 user_groups: []
 ---
-I am an applied linguistics researcher and English teacher with research interests in foreign language acquisition and learner psychology. I have taught several academic English modules at the undergraduate level during the past five years.
+My name is Hao Wu (吴昊). You can also call me Chuck. I am an applied linguistics researcher and English teacher with research interests in foreign language acquisition and learner psychology. I have taught academic English at the undergraduate level during the past five years. Currently, I am conducting my DPhil project at Oxford. I am interested in learner psychology in EMI programs in the context of China.
