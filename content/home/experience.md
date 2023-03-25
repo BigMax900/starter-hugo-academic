@@ -45,7 +45,9 @@ experience:
     location: Global
     date_start: '2021-09-01'
     date_end:
-    description: 
+    description: |2-
+    * Reviewing articles and encouraging submission;
+    * Participating in board meetings and promoting the Journal at conferences.
 
 design:
   columns: '1'
