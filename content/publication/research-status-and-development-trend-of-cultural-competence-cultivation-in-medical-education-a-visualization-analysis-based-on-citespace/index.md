@@ -5,7 +5,7 @@ title: "Research status and development trend of cultural competence cultivation
 publication_types:
   - "2"
 authors:
-  - Hao Wu
+  - Chuck Hao Wu
   - Ye Han
 doi: 10.3969/j.issn.2096-045X.2022.05.014
 publication: In *Medical Education Management (医学教育管理)*
