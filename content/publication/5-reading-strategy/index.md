@@ -1,6 +1,6 @@
 ---
-title: A comparative study of analytical assessment and holistic assessment in
-  English writing tests
+title: "A brief review of the effect of reading strategy instruction on L2
+  reading comprehension: A discussion of types, amount, L2 proficiency, and age"
 publication_types:
   - "2"
 authors:
