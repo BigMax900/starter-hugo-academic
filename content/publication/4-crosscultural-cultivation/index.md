@@ -1,5 +1,6 @@
 ---
-title: 4-crosscultural-cultivation
+title: Practice and enlightenment of cross-cultural competence cultivation among
+  medical undergraduates (医学本科生跨文化能力培养的实践及启示)
 publication_types:
   - "2"
 authors:
@@ -28,5 +29,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-03-27T10:18:04.173Z
+date: 2021-09-15T10:18:04.173Z
 ---
