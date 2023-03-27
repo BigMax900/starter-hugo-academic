@@ -8,6 +8,7 @@ authors:
   - Chuck Hao Wu
   - Ye Han
 doi: http://yxjyts.alljournals.ac.cn/yxjyts/ch/reader/view_abstract.aspx?file_no=202210036&flag=1
+publication: In *Chinese Journal of Medical Education Research* (中华医学教育探索杂志)
 abstract: "**Objective** To investigate the relationship between foreign
   language learning motivation and academic performance of medical students in
   emergency remote teaching. **Methods** A total of 131 medical undergraduates
