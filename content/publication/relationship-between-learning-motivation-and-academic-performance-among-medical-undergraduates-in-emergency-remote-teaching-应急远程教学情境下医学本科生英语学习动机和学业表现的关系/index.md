@@ -7,8 +7,6 @@ publication_types:
 authors:
   - Chuck
   - Ye Han
-author_notes:
-
 doi: 10.3760/cma.j.cn116021-20200808-01051
 publication: In *Chinese Journal of Medical Education Research (中华医学教育探索杂志)*
 abstract: "**Objective**　To investigate the relationship between foreign
