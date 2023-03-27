@@ -5,8 +5,7 @@ publication_types:
   - "2"
 authors:
   - Chuck Hao Wu
-author_notes:
-  - The University of Oxford
+author_notes: []
 doi: https://doi.org/10.54475/jlt.2021.001
 publication: In *Journal of Language Teaching*
 abstract: The choice of assessment method is particularly important in English
