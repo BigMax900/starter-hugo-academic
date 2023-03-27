@@ -2,7 +2,7 @@
 title: "Research status and development trend of cultural competence cultivation
   in medical education: A visualization analysis based on
   CiteSpace(医学教育中文化能力培养的研究现状及发展趋势——基于CiteSpace的可视化分析)"
-subtitle: 医学教育中文化能力培养的研究现状及发展趋势——基于CiteSpace的可视化分析
+subtitle: ""
 publication_types:
   - "2"
 authors:
