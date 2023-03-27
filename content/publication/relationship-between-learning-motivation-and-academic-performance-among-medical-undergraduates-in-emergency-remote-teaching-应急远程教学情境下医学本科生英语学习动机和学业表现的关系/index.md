@@ -5,7 +5,7 @@ title: Relationship between learning motivation and academic performance among
 publication_types:
   - "2"
 authors:
-  - Chuck
+  - Chuck Hao Wu
   - Ye Han
 doi: 10.3760/cma.j.cn116021-20200808-01051
 publication: In *Chinese Journal of Medical Education Research (中华医学教育探索杂志)*
