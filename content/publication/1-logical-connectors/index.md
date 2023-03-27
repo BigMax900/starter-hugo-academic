@@ -5,8 +5,7 @@ publication_types:
   - "2"
 authors:
   - Chuck Hao Wu
-author_notes:
-  - The University of Hong Kong
+author_notes: []
 doi: http://dx.doi.org/10.17507/tpls.0906.04
 publication: In *Theory and Practice in Language Studies*
 abstract: >-
