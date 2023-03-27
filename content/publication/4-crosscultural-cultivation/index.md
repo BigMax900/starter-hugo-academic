@@ -1,12 +1,15 @@
 ---
 title: Practice and enlightenment of cross-cultural competence cultivation among
   medical undergraduates (医学本科生跨文化能力培养的实践及启示)
+subtitle: ""
 publication_types:
   - "2"
 authors:
   - Ye Han
   - Wei Fang
   - Chuck Hao Wu
+author_notes:
+  - Corresponding Author
 doi: https://kns.cnki.net/kcms2/article/abstract?v=6NQcqlsMs0iLmFcIwgh5SBpzKtecSxPnXv0oyRk7NQh_hR7dHwe3_P9ZYvdfCv370RVWlenP4An-yzf__wCzOG92oSzBpFlhYX3F0MmovDkO7EKvdTEmp_skbhLG2qCucvqjMy9688pOGHwNEVu1DirfcgP8mdnB&uniplatform=NZKPT
 publication: In *China Medical Herald (中国医药导报)*
 abstract: How to provide customized cross-cultural competence instruction
