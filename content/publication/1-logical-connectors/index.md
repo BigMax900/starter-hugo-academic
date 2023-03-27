@@ -26,7 +26,9 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - corpus linguistics; logical connectors; English speaking
+  - corpus linguistics
+  - logical connectors
+  - English speaking
 image:
   filename: featured
   focal_point: Smart
