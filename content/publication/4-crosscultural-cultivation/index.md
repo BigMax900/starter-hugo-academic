@@ -13,7 +13,7 @@ author_notes:
   - null
   - Corresponding Author
 doi: https://kns.cnki.net/kcms2/article/abstract?v=6NQcqlsMs0iLmFcIwgh5SBpzKtecSxPnXv0oyRk7NQh_hR7dHwe3_P9ZYvdfCv370RVWlenP4An-yzf__wCzOG92oSzBpFlhYX3F0MmovDkO7EKvdTEmp_skbhLG2qCucvqjMy9688pOGHwNEVu1DirfcgP8mdnB&uniplatform=NZKPT
-publication: In *China Medical Herald* (中国医药导报)
+publication: "*China Medical Herald* (中国医药导报)"
 abstract: How to provide customized cross-cultural competence instruction
   according to the characteristics of learning subjects is an important topic in
   cross-cultural foreign language teaching. This study attempts to explore a
