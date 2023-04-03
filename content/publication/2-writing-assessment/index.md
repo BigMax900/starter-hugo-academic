@@ -7,7 +7,7 @@ authors:
   - Chuck Hao Wu
 author_notes: []
 doi: https://doi.org/10.54475/jlt.2021.001
-publication: In *Journal of Language Teaching*
+publication: "*Journal of Language Teaching*"
 abstract: The choice of assessment method is particularly important in English
   writing testing and assessment. Analytical assessment and holistic assessment
   are two common methods in English writing assessment. The choice of assessment
