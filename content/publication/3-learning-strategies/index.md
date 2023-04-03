@@ -7,7 +7,7 @@ authors:
   - Chuck Hao Wu
 author_notes: []
 doi: https://kns.cnki.net/kcms2/article/abstract?v=6NQcqlsMs0jP5sI-_9OqcwQKPgOnv_ROgUSeP8g05QqSjnA7837dpP4RaHvYw3ZYcrmFQ8_AZ825sj2pSTk_9qLxBgGykLilA1xwDrgQwf0UtZundMMGjAaLHhaOzXWrjVRhCbK5aynR9Kn6abI0W7zAf6lb9WRg&uniplatform=NZKPT
-publication: In *Modern English* (现代英语)
+publication: "*Modern English* (现代英语)"
 abstract: By conducting a questionnaire survey，this study examined the
   relationship between self-regulated learning strategies and academic
   achievement among 131 medical undergraduates who participated in an emergency
