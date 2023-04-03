@@ -9,7 +9,7 @@ authors:
   - Chuck Hao Wu
   - Jing Xu
 doi: https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XUBIb1bksPbnvXbkbbRZPQnDr0Oizw1E1iQKhtfCAn9_&uniplatform=NZKPT
-publication: In *Chinese Medical Ethics* (中国医学伦理学)
+publication: "*Chinese Medical Ethics* (中国医学伦理学)"
 publication_short: ""
 abstract: In order to build a global community of health for all, it is
   necessary to deeply understand the influencing factors of cross-cultural
