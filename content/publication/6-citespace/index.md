@@ -9,7 +9,7 @@ authors:
   - Chuck Hao Wu
   - Ye Han
 doi: https://kns.cnki.net/kcms2/article/abstract?v=6NQcqlsMs0i_K6OLcAUnhjOHcJYVQ1MNilDrEe_WERrvse9NJ9TVJWDRlvdhqfALhiL9cBkQhVev4dpiUdJxVgjY8z8cBv-SFV_IIcmfTdz8oDtOOUz2kF0d5wF8FQtJNtQiqQjI7TK6N2MvRCTIFTzHHeEFuwM6&uniplatform=NZKPT
-publication: In *Medical Education Management* (医学教育管理)
+publication: "*Medical Education Management* (医学教育管理)"
 abstract: "**Objective** To analyze the dynamics and changing characteristics of
   medical cultural competence education and to provide theoretical and practical
   references for medical culture education in China. **Methods** We searched the
