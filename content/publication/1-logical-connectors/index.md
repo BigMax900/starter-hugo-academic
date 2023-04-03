@@ -7,7 +7,7 @@ authors:
   - Chuck Hao Wu
 author_notes: []
 doi: http://dx.doi.org/10.17507/tpls.0906.04
-publication: In *Theory and Practice in Language Studies*
+publication: "*Theory and Practice in Language Studies*"
 abstract: >-
   In the past several decades, the compilation of learner corpora and the
   application of corpus linguistics have been extensively employed to improve
