@@ -46,7 +46,7 @@ education:
     - course: DPhil in Education, 2023-Ongoing
       institution: The University of Oxford, United Kingdom
       year: ""
-    - course: MSc in Applied Linguistics for Language Teaching (Distinction), 2020–2022
+    - course: MSc (Distinction) in Applied Linguistics for Language Teaching, 2020–2022
       institution: The University of Oxford, United Kingdom
       year: ""
     - course: MA in Teaching English to Speakers of Other Languages, 2016–2017
@@ -62,4 +62,4 @@ email: wuhaodlc@connect.hku.hk
 superuser: true
 user_groups: []
 ---
-My name is Hao Wu. You can also call me Chuck. I am an applied linguistics researcher and English teacher with research interests in foreign language acquisition and learner psychology. I am conducting my DPhil project at The University of Oxford. I have taught academic English at the undergraduate level during the past five years.
+My name is Hao Wu. You can also call me Chuck. I am an applied linguistics researcher and English teacher with research interests in foreign language acquisition and learner psychology. I am conducting my DPhil project at The University of Oxford. I have taught academic English at the undergraduate level for more than five years.
