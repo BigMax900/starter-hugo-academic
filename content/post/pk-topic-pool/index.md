@@ -1,5 +1,5 @@
 ---
-title: PK-topic-pool
+title: A topic pool for Pecha Kucha Presentations (Medical Purposes)
 date: 2023-07-20T16:32:09.394Z
 draft: false
 featured: false
