@@ -1,11 +1,12 @@
 ---
 slides: ""
-url_pdf: "project/example/saqop.pdf"
+url_pdf: project/example/saqop.pdf
 summary: >-
   This is a presentation of the dissertation submitted in partial fulfillment of
   the requirements for the [MSc
   ALLT](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-linguistics-for-language-teaching)
-  program at [The University of Oxford](https://ox.ac.uk).
+  program at [The University of Oxford](https://ox.ac.uk). The video can be
+  watched [here](https://youtu.be/0RSZk2y7NIE?si=WCo9oqX_w5UAThSf).
 
 
   Time: August 24, 2022  18:55 – 19:20   ·    Oxford, UK
@@ -26,6 +27,6 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
-This is a presentation of the dissertation submitted in partial fulfillment of the requirements for the [MSc ALLT](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-linguistics-for-language-teaching) program at [The University of Oxford](https://ox.ac.uk).
+This is a presentation of the dissertation submitted in partial fulfillment of the requirements for the [MSc ALLT](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-linguistics-for-language-teaching) program at [The University of Oxford](https://ox.ac.uk). The video can be watched [here](https://youtu.be/0RSZk2y7NIE?si=WCo9oqX_w5UAThSf).
 
 Time: August 24, 2022  18:55 – 19:20   ·    Oxford, UK
